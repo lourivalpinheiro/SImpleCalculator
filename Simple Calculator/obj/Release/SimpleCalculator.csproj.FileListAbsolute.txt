@@ -1,0 +1,10 @@
+C:\Users\louri\source\repos\SimpleCalculator\bin\Release\SimpleCalculator.exe.config
+C:\Users\louri\source\repos\SimpleCalculator\bin\Release\SimpleCalculator.exe
+C:\Users\louri\source\repos\SimpleCalculator\bin\Release\SimpleCalculator.pdb
+C:\Users\louri\source\repos\SimpleCalculator\obj\Release\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\louri\source\repos\SimpleCalculator\obj\Release\SimpleCalculator.simpleCalculator.resources
+C:\Users\louri\source\repos\SimpleCalculator\obj\Release\SimpleCalculator.Properties.Resources.resources
+C:\Users\louri\source\repos\SimpleCalculator\obj\Release\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\louri\source\repos\SimpleCalculator\obj\Release\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\louri\source\repos\SimpleCalculator\obj\Release\SimpleCalculator.exe
+C:\Users\louri\source\repos\SimpleCalculator\obj\Release\SimpleCalculator.pdb
