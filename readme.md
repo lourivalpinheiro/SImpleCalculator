@@ -6,7 +6,7 @@ No momento, o projeto não segue POO (Programação Orientada a Objetos), mas se
 
 # Sobre os cálculos
 
-É importante salientar que a Simple Calculator ainda não possui o "." como separador, além de não ser capaz de guardar em memória diferentes números e retornar um resultado final. É necessário inserir um número, a operação a ser a realizada, um segundo número e, logo após, apertar a tecla "=" para exibir o resultado à tela. Para realizar um novo cálculo, basta clicar na tecla "C" ou apertar o "Backspace" de seu teclado.
+É importante salientar que a Simple Calculator ainda não possui o "." como separador, além de não ser capaz de guardar em memória múltiplos e diferentes números e retornar um resultado final. É necessário inserir um número, a operação a ser a realizada, um segundo número e, logo após, apertar a tecla "=" para exibir o resultado à tela. Para realizar um novo cálculo, basta clicar na tecla "C" ou apertar o "Backspace" de seu teclado.
 
 # Algumas orientações sobre o download
 ---
