@@ -6,6 +6,6 @@ No momento, o projeto não segue POO (Programação Orientada a Objetos), mas se
 
 # Algumas orientações sobre o download
 ---
-Simple Calculator é uma ferramenta de distribuição gratuita e, inclusive, você pode ter acesso ao código fonte, além do aplicativo em si, através do meu GitHub. Algumas orientações sobre o download são importantes:
+Simple Calculator é uma ferramenta de distribuição gratuita e, inclusive, você pode ter acesso ao código fonte, além do aplicativo em si, através do meu GitHub, baixando o arquivo MSI. Algumas orientações sobre o download são importantes:
 
 - É provável que ao tentar executor o instalador (arquivo MSI), seu windows bloqueiará a execução por questões de segurança, então é necessário que antes de executá-lo, você o selecione uma vez e, segurando a tecla ALT, aperte ENTER, selecionando a opção desbloquear e depois clicando em "OK". Ao fazer, isso basta executar o instalador e seguir as orientações sugeridas por ele. No final, você verá o ícone da Simple Calculator em sua área de trabalho.
