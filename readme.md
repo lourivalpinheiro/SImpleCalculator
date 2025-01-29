@@ -4,6 +4,10 @@ Simple Calculator é o meu primeiro projeto usando C# e o ecossistema .NET, ferr
                     
 No momento, o projeto não segue POO (Programação Orientada a Objetos), mas será a primeira modificação que seguirá a continuação do projeto. O intuito é que este software torne-se em uma super calculadora, capaz de realizar cálculos genéricos como as quatro operações, mas também de resolver problemas do setor financeiro e, até mesmo, cálculos científicos.
 
+# Sobre os cálculos
+
+É importante salientar que a Simple Calculator ainda não possui o "." como separador, além de não ser capaz de guardar em memória diferentes números e retornar um resultado final. É necessário inserir um número, a operação a ser a realizada, um segundo número e, logo após, apertar a tecla "=" para exibir o resultado à tela. Para realizar um novo cálculo, basta clicar na tecla "C" ou apertar o "Backspace" de seu teclado.
+
 # Algumas orientações sobre o download
 ---
 Simple Calculator é uma ferramenta de distribuição gratuita e, inclusive, você pode ter acesso ao código fonte, além do aplicativo em si, através do meu GitHub, baixando o arquivo MSI. Algumas orientações sobre o download são importantes:
